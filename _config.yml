@@ -1,0 +1,17 @@
+title: kayneriam
+brief-intro: Software Engineer
+baseurl: ""
+url: "https://kayneriam.github.io"
+permalink: /:year/:month/:day/:title/
+github_username: kayneriam
+email: kayner.iam@gmail.com
+description_footer: This site contains the thoughts and notes of the author. Attention! They may not match your understanding of standard things.
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+category_dir: category/
+tag_dir: tag/
+excerpt_separator: "\n\n\n\n"
+plugins: [jekyll-paginate]
+paginate: 6
