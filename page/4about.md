@@ -13,11 +13,11 @@ type: page
 
 ## Who am I
 
-I am a Software Engineer(QA Engineer at work and an enthusiastic developer at home). Currently living in Nizhny Novgorod, Russia. I write in this blog about various things in the field of IT.
+* I am a Software Engineer(QA Engineer at work and an enthusiastic developer at home). Currently living in Nizhny Novgorod, Russia. I write in this blog about various things in the field of IT.
 
-If you are HR, then I am always open to suggestions. This blog can talk about my tech-stack.
+* If you are HR, then I am always open to suggestions. This blog can talk about my tech-stack.
 
-On the way to getting a job in Google.
+* On the way to getting a job in Google.
 
 ## Contact me
 
